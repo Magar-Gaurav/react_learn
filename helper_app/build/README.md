@@ -11,5 +11,5 @@ This repo only contains the `build` folder (production version). Source code is 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Magar-Gaurav/react_learn.git
+cd helper_app
