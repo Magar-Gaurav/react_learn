@@ -1,6 +1,6 @@
-# Text Helper App
+# News App
 
-A simple React-based text utility tool for counting words/characters, changing text case, removing spaces, and more.
+A simple React-based text utility tool for getting  news.
 
 ## ⚠️ Note
 
